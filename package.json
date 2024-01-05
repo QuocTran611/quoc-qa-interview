@@ -1,0 +1,21 @@
+{
+  "name": "whistler-qa-interview",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@babel/core": "^7.4.3",
+    "@babel/preset-env": "^7.4.3",
+    "babel-jest": "^24.7.1",
+    "selenium-webdriver": "^4.16.0"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "description": "The implementation must be in JavaScript. You are allowed to use any test framework of your choice. You can make assumptions where necessary. Jest is configured for you. Install with `yarn add` and run the test with `yarn test`.",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "keywords": [],
+  "author": ""
+}
